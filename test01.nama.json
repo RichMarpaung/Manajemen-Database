@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "665d1a000000000000000001"
+  },
+  "nama_alat": "Sensor Suhu DHT11",
+  "kategori": "Sensor",
+  "fungsi": "Mengukur suhu dan kelembaban",
+  "merk": "Generic"
+},
+{
+  "_id": {
+    "$oid": "665d1a000000000000000002"
+  },
+  "nama_alat": "NodeMCU ESP8266",
+  "kategori": "Mikrokontroler",
+  "fungsi": "Pengontrol utama berbasis WiFi",
+  "merk": "ESP"
+},
+{
+  "_id": {
+    "$oid": "665d1a000000000000000003"
+  },
+  "nama_alat": "Relay 4 Channel",
+  "kategori": "Aktuator",
+  "fungsi": "Mengontrol perangkat listrik",
+  "merk": "Songle"
+},
+{
+  "_id": {
+    "$oid": "665d1a000000000000000004"
+  },
+  "nama_alat": "Sensor Cahaya LDR",
+  "kategori": "Sensor",
+  "fungsi": "Mendeteksi intensitas cahaya",
+  "merk": "Generic"
+},
+{
+  "_id": {
+    "$oid": "665d1a000000000000000005"
+  },
+  "nama_alat": "Pompa Air Mini 3–6V",
+  "kategori": "Aktuator",
+  "fungsi": "Mengalirkan air dalam sistem IoT",
+  "merk": "DC Pump"
+},
+{
+  "_id": {
+    "$oid": "665d1a000000000000000006"
+  },
+  "nama_alat": "Soil Moisture Sensor",
+  "kategori": "Sensor",
+  "fungsi": "Mengukur kelembaban tanah",
+  "merk": "YL-69"
+},
+{
+  "_id": {
+    "$oid": "665d1a000000000000000007"
+  },
+  "nama_alat": "OLED Display 0.96\"",
+  "kategori": "Output",
+  "fungsi": "Menampilkan informasi",
+  "merk": "SSD1306"
+}]
